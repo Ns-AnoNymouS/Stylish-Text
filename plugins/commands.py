@@ -17,13 +17,14 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic join my channel @disneygrou ❤.`
 
-InlineKeyboardButton('My creator 👨‍💻', url=f"https://t.me/doreamonfans2")
+ My creator👨‍💻   @doreamonfans1 and @doreamonfans2
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/doreamonfans2")
+            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/doreamonfans2"),
+            InlineKeyboardButton('updates channel👨‍🔧', url=f"https://t.me/disneygrou")
         ]
     ]
     await m.reply_text(
