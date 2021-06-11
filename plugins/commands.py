@@ -15,15 +15,15 @@ async def start(c, m):
 
 💡 ** I am Stylish Font Bot**
 
-`I can help you to get stylish fonts. Just send me some text and see magic.`
+`I can help you to get stylish fonts. Just send me some text and see magic join my channel @disneygrou ❤.`
 
-**👲 Maintained By:** {owner.mention(style='md')}
+'👲 Maintained By',url=f"https://t.me/doreamonfans2")
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/{owner_username}")
+            InlineKeyboardButton('My Father 👨‍✈️', url=f"https://t.me/doreamonfans2")
         ]
     ]
     await m.reply_text(
