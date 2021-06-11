@@ -17,7 +17,7 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic join my channel @disneygrou ❤.`
 
-'👲 Maintained By',url=f"https://t.me/doreamonfans2")
+InlineKeyboardButton('My creator 👨‍💻', url=f"https://t.me/doreamonfans2")
 """
 
     # Buttons
